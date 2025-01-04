@@ -12,7 +12,7 @@ Este repositório contém os projetos desenvolvidos durante o curso de **Técnic
 
 ---
 
-### 🩺 [Projeto 2 - Internet das Coisas (CardioTech)](./Projeto-Internet-das-Coisas.pdf)
+### 🩺 [Projeto 2 - Internet das Coisas (CardioTech)](Projeto2 -Internet das Coisas.pdf)
 - **Descrição:** Criação de um dispositivo para monitoramento de frequência cardíaca utilizando Arduino Uno e sensor MAX30102.
 - **Principais Tecnologias:** Arduino Uno, Tinkercad, sensor MAX30102.
 - **Diferenciais:** Design compacto, precisão nas medições e conectividade com dispositivos móveis.
