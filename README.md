@@ -6,7 +6,7 @@ Este repositório contém os projetos desenvolvidos durante o curso de **Técnic
 
 ## 📂 Projetos
 
-### 🛠️ [Projeto 1 - Análise e Qualidade de Software](./Projeto-final-Analise-e-qualidade-de-Software.pdf)
+### 🛠️ [Projeto 1 - Análise e Qualidade de Software](Projeto1_Analise_Qualidade_Software.pdf)
 - **Descrição:** Desenvolvimento de um sistema de gerenciamento de transporte (TMS) para a EcoLogística.
 - **Conceitos Aplicados:** Requisitos funcionais e não funcionais, prototipagem, regras de negócio.
 
